@@ -1,0 +1,23 @@
+ .img-size{
+    display: flex;
+    padding: 0px 20px 21px 16px;
+}
+.color-width{
+    background: #ffff;
+    padding-top: 2px;
+}
+.items{
+    padding-left: 11px;
+}
+
+
+.main-img img{
+    width: 41vw;
+}
+ .button-icon{
+    margin: 6px;
+} 
+ .button-icon span{
+    padding: 2px;
+  font-size: 19px;
+} 

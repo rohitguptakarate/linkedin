@@ -1,0 +1,14 @@
+.text-align{
+    text-align: center;
+    color: gray;
+}
+.profile-name{
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+}
+.text-profile{
+    text-align: center;
+    padding: 10px;
+    color:gray ;
+}

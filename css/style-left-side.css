@@ -1,0 +1,28 @@
+.left-side-bar{
+    background-color: #ffff;
+    border-radius: 15px;
+}
+.background-header{
+    width: 22vw;
+    height: 15vh;
+    
+    border-radius: 15px 15px 0px 0px ;  
+    background-color: lightcoral;
+    background-image: repeating-radial-gradient(circle,  lightcoral, black );
+    
+}
+.profile-image{
+    padding: 39px 127px;
+}
+.connections{
+    padding: 10px;
+}
+.connections h5{
+    padding-top: 7px;
+}
+.who-viewed-your-Iteam{
+    padding: 4px;
+}
+.discription-Iteam{
+    margin: 14px;
+}

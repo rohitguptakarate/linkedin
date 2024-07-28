@@ -1,0 +1,52 @@
+.profile-main-image{
+    display: flex;
+  margin: 20px;
+}
+.text-post{
+    padding: 0px 10px;
+}
+.text-post input{
+    width: 546px;
+    height: 31px;
+    border-radius: 16px;
+    border: 2px solid darkgray;
+}
+.gallary-container{
+    display: flex;
+  margin: -6px;
+  padding: 0px 65px;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+}
+.photo span{
+    padding: 0px 6px;
+}
+.video-image{
+    display: flex;
+  justify-content: center;
+  justify-items: center;
+  padding: 0px 37px;
+}
+.video-image span{
+    padding: 0px 6px;
+}
+.Event-image{
+  display: flex;
+  justify-content: center;
+  
+  padding: 0px 37px;
+}
+.Event-image span{
+    padding: 0px 6px;
+}
+.article-image{
+    display: flex;
+  justify-content: center;
+  justify-items: center;
+  padding: 0px 8px;
+}
+.article-image span{
+    padding: 0px 6px;
+}
